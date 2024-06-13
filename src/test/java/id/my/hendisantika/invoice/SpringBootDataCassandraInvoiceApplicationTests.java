@@ -1,4 +1,4 @@
-package id.my.hendisantika.springbootdatacassandrainvoice;
+package id.my.hendisantika.invoice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

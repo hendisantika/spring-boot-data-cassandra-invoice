@@ -12,7 +12,7 @@
     <artifactId>spring-boot-data-cassandra-invoice</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>spring-boot-data-cassandra-invoice</name>
-    <description>spring-boot-data-cassandra-invoice</description>
+    <description>Spring Boot Data Cassandra Invoice</description>
     <properties>
         <java.version>21</java.version>
     </properties>
